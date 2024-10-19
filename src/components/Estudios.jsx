@@ -1,9 +1,9 @@
 import React from "react";
-import Cibertec from "../img/estudios-cibertec.png";
-import ICPNA from "../img/estudios-icpna.png";
-import Kaplan from "../img/estudios-kaplan.png";
-import Prime from "../img/estudios-prime.png";
-import UPC from "../img/estudios-upc.png";
+import Cibertec from "../img/estudios-cibertec.webp";
+import ICPNA from "../img/estudios-icpna.webp";
+import Kaplan from "../img/estudios-kaplan.webp";
+import Prime from "../img/estudios-prime.webp";
+import UPC from "../img/estudios-upc.webp";
 
 function Estudios(){
     return(

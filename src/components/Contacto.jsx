@@ -1,12 +1,12 @@
 import React from "react";
-import Github from "../img/contacto-github.png";
-import Instagram from "../img/contacto-instagram.png";
-import Letterboxd from "../img/contacto-letterboxd.png";
-import LinkedIn from "../img/contacto-linkedin.png";
-import Outlook from "../img/contacto-outlook.png";
-import Spotify from "../img/contacto-spotify.png";
-import Steam from "../img/contacto-steam.png";
-import WhatsApp from "../img/contacto-whatsapp.png";
+import Github from "../img/contacto-github.webp";
+import Instagram from "../img/contacto-instagram.webp";
+import Letterboxd from "../img/contacto-letterboxd.webp";
+import LinkedIn from "../img/contacto-linkedin.webp";
+import Outlook from "../img/contacto-outlook.webp";
+import Spotify from "../img/contacto-spotify.webp";
+import Steam from "../img/contacto-steam.webp";
+import WhatsApp from "../img/contacto-whatsapp.webp";
 
 function ContactUs(){
     return(

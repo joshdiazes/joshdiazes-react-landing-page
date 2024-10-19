@@ -1,12 +1,12 @@
 import React from "react";
-import Carpio from "../img/proyectos-carpio.png";
-import Effio from "../img/proyectos-effio.png";
-import Flora from "../img/proyectos-flora.png";
-import Gommy from "../img/proyectos-gommyvit.png";
-import Psicocenters from "../img/proyectos-psicocenters.png";
-import Soluciones from "../img/proyectos-soluciones.png";
-import Ticor from "../img/proyectos-ticor.png";
-import TotalClean from "../img/proyectos-totalclean.png";
+import Carpio from "../img/proyectos-carpio.webp";
+import Effio from "../img/proyectos-effio.webp";
+import Flora from "../img/proyectos-flora.webp";
+import Gommy from "../img/proyectos-gommyvit.webp";
+import Psicocenters from "../img/proyectos-psicocenters.webp";
+import Soluciones from "../img/proyectos-soluciones.webp";
+import Ticor from "../img/proyectos-ticor.webp";
+import TotalClean from "../img/proyectos-totalclean.webp";
 
 function Proyectos(){
     return(

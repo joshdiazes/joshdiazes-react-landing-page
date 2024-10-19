@@ -1,5 +1,5 @@
 import React from "react";
-import header from '../img/about-joshua.png';
+import header from '../img/about-joshua.webp';
 
 function Inicio(){
     return(

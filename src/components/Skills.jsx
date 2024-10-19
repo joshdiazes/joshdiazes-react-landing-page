@@ -1,19 +1,19 @@
 import React from "react";
-import CMasMas from "../img/skills-cmasmas.png";
+import CMasMas from "../img/skills-cmasmas.webp";
 import FullStar from "../img/skills-estrella-llena.svg";
 import HalfStar from "../img/skills-estrella-mitad.svg";
 import EmptyStar from "../img/skills-estrella-vacia.svg";
-import Excel from "../img/skills-excel.png";
-import Git from "../img/skills-git.png";
-import Ingles from "../img/skills-ingles.png";
-import Portugues from "../img/skills-portugues.png";
-import PowerBI from "../img/skills-powerbi.png";
-import Python from "../img/skills-python.png";
-import R from "../img/skills-r.png";
-import ReactLogo from "../img/skills-react.png";
-import SQL from "../img/skills-sql.png";
-import Woocommerce from "../img/skills-woocommerce.png";
-import Wordpress from "../img/skills-wordpress.png";
+import Excel from "../img/skills-excel.webp";
+import Git from "../img/skills-git.webp";
+import Ingles from "../img/skills-ingles.webp";
+import Portugues from "../img/skills-portugues.webp";
+import PowerBI from "../img/skills-powerbi.webp";
+import Python from "../img/skills-python.webp";
+import R from "../img/skills-r.webp";
+import ReactLogo from "../img/skills-react.webp";
+import SQL from "../img/skills-sql.webp";
+import Woocommerce from "../img/skills-woocommerce.webp";
+import Wordpress from "../img/skills-wordpress.webp";
 
 // Componente Stars que recibe un array de estrellas como prop
 const Stars = ({ stars }) => {

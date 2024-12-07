@@ -30,80 +30,80 @@ const Stars = ({ stars }) => {
 function Skills(){
     return(
         <section class="skills" id="skills">
-            <div>
-                <h1>SKILLS</h1>
-            </div>
             <div class="skills_container">
-                <div class="skills_box">
-                    <img src={Ingles} alt="Logo Inglés de Skills del Landing Page"></img>
-                    <div class="skills_star">
-                        <Stars stars={[FullStar, FullStar, FullStar, FullStar, FullStar]} />
+                <h1>SKILLS</h1>
+                <div class="skills_grid">
+                    <div class="skills_box">
+                        <img src={Ingles} alt="Logo Inglés de Skills del Landing Page"></img>
+                        <div class="skills_star">
+                            <Stars stars={[FullStar, FullStar, FullStar, FullStar, FullStar]} />
+                        </div>
                     </div>
-                </div>
-                <div class="skills_box">
-                    <img src={Portugues} alt="Logo Portugués de Skills del Landing Page"></img>
-                    <div class="skills_star">
-                        <Stars stars={[FullStar, FullStar, EmptyStar, EmptyStar, EmptyStar]} />
+                    <div class="skills_box">
+                        <img src={Portugues} alt="Logo Portugués de Skills del Landing Page"></img>
+                        <div class="skills_star">
+                            <Stars stars={[FullStar, FullStar, EmptyStar, EmptyStar, EmptyStar]} />
+                        </div>
                     </div>
-                </div>
-                <div class="skills_box">
-                    <img src={Excel} alt="Logo Excel de Skills del Landing Page"></img>
-                    <div class="skills_star">
-                        <Stars stars={[FullStar, FullStar, FullStar, HalfStar, EmptyStar]} />
+                    <div class="skills_box">
+                        <img src={Excel} alt="Logo Excel de Skills del Landing Page"></img>
+                        <div class="skills_star">
+                            <Stars stars={[FullStar, FullStar, FullStar, EmptyStar, EmptyStar]} />
+                        </div>
                     </div>
-                </div>
-                <div class="skills_box">
-                    <img src={PowerBI} alt="Logo PowerBi de Skills del Landing Page"></img>
-                    <div class="skills_star">
-                        <Stars stars={[FullStar, FullStar, FullStar, HalfStar, EmptyStar]} />
+                    <div class="skills_box">
+                        <img src={PowerBI} alt="Logo PowerBi de Skills del Landing Page"></img>
+                        <div class="skills_star">
+                            <Stars stars={[FullStar, FullStar, FullStar, EmptyStar, EmptyStar]} />
+                        </div>
                     </div>
-                </div>
-                <div class="skills_box">
-                    <img src={SQL} alt="Logo SQL de Skills del Landing Page"></img>
-                    <div class="skills_star">
-                        <Stars stars={[FullStar, FullStar, FullStar, HalfStar, EmptyStar]} />
+                    <div class="skills_box">
+                        <img src={SQL} alt="Logo SQL de Skills del Landing Page"></img>
+                        <div class="skills_star">
+                            <Stars stars={[FullStar, FullStar, FullStar, EmptyStar, EmptyStar]} />
+                        </div>
                     </div>
-                </div>
-                <div class="skills_box">
-                    <img src={Python} alt="Logo Python de Skills del Landing Page"></img>
-                    <div class="skills_star">
-                        <Stars stars={[FullStar, FullStar, FullStar, HalfStar, EmptyStar]} />
+                    <div class="skills_box">
+                        <img src={Python} alt="Logo Python de Skills del Landing Page"></img>
+                        <div class="skills_star">
+                            <Stars stars={[FullStar, FullStar, FullStar, EmptyStar, EmptyStar]} />
+                        </div>
                     </div>
-                </div>
-                <div class="skills_box">
-                    <img src={CMasMas} alt="Logo C++ de Skills del Landing Page"></img>
-                    <div class="skills_star">
-                        <Stars stars={[FullStar, FullStar, FullStar, HalfStar, EmptyStar]} />
+                    <div class="skills_box">
+                        <img src={CMasMas} alt="Logo C++ de Skills del Landing Page"></img>
+                        <div class="skills_star">
+                            <Stars stars={[FullStar, FullStar, FullStar, HalfStar, EmptyStar]} />
+                        </div>
                     </div>
-                </div>
-                <div class="skills_box">
-                    <img src={R} alt="Logo R de Skills del Landing Page"></img>
-                    <div class="skills_star">
-                        <Stars stars={[FullStar, FullStar, HalfStar, EmptyStar, EmptyStar]} />
+                    <div class="skills_box">
+                        <img src={R} alt="Logo R de Skills del Landing Page"></img>
+                        <div class="skills_star">
+                            <Stars stars={[FullStar, FullStar, EmptyStar, EmptyStar, EmptyStar]} />
+                        </div>
                     </div>
-                </div>
-                <div class="skills_box">
-                    <img src={ReactLogo} alt="Logo React de Skills del Landing Page"></img>
-                    <div class="skills_star">
-                        <Stars stars={[FullStar, FullStar, FullStar, EmptyStar, EmptyStar]} />
+                    <div class="skills_box">
+                        <img src={ReactLogo} alt="Logo React de Skills del Landing Page"></img>
+                        <div class="skills_star">
+                            <Stars stars={[FullStar, FullStar, FullStar, EmptyStar, EmptyStar]} />
+                        </div>
                     </div>
-                </div>
-                <div class="skills_box">
-                    <img src={Git} alt="Logo Git de Skills del Landing Page"></img>
-                    <div class="skills_star">
-                        <Stars stars={[FullStar, FullStar, FullStar, EmptyStar, EmptyStar]} />
+                    <div class="skills_box">
+                        <img src={Git} alt="Logo Git de Skills del Landing Page"></img>
+                        <div class="skills_star">
+                            <Stars stars={[FullStar, FullStar, FullStar, EmptyStar, EmptyStar]} />
+                        </div>
                     </div>
-                </div>
-                <div class="skills_box">
-                    <img src={Wordpress} alt="Logo Wordpress de Skills del Landing Page"></img>
-                    <div class="skills_star">
-                        <Stars stars={[FullStar, FullStar, FullStar, EmptyStar, EmptyStar]} />
+                    <div class="skills_box">
+                        <img src={Wordpress} alt="Logo Wordpress de Skills del Landing Page"></img>
+                        <div class="skills_star">
+                            <Stars stars={[FullStar, FullStar, FullStar, EmptyStar, EmptyStar]} />
+                        </div>
                     </div>
-                </div>
-                <div class="skills_box">
-                    <img src={Woocommerce} alt="Logo Woocommerce de Skills del Landing Page"></img>
-                    <div class="skills_star">
-                        <Stars stars={[FullStar, FullStar, FullStar, EmptyStar, EmptyStar]} />
+                    <div class="skills_box">
+                        <img src={Woocommerce} alt="Logo Woocommerce de Skills del Landing Page"></img>
+                        <div class="skills_star">
+                            <Stars stars={[FullStar, FullStar, FullStar, EmptyStar, EmptyStar]} />
+                        </div>
                     </div>
                 </div>
             </div>

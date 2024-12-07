@@ -10,7 +10,7 @@ function Inicio(){
                     <p>Estudiante de 9no ciclo de la carrera de Ciencias de la Computación, con experiencia 
                         en Wordpress, Woocommerce, C++, Python, SQL, e interesado en el mundo de Desarrollo de 
                         Aplicaciones Web y Data Science.</p>
-                    <a class="inicio_btn" href="https://drive.google.com/file/d/1CIBmBMFV5-e1RhxeG6414Xaj12rqWGFW/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                    <a class="inicio_btn" href="https://drive.google.com/file/d/134nIWF9CLyJ-tE1TgEeqwDxWOJRp5s1q/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                         <b>Descargar CV</b>
                     </a>
                 </div>
